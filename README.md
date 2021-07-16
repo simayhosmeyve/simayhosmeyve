@@ -40,7 +40,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163 )
 
-![](https://komarev.com/ghpvc/?username=simayhosmeyve&color=DE3163 )
 
 
 [linkedin]: https://www.linkedin.com/in/simayhosmeyve/

@@ -1,7 +1,7 @@
-## Hi there, I'm Simay 👋
+## Hi there, I'm Simay Hoşmeyve 👋
 
 - :computer: I'm a Computer Engineering student at Canakkale Onsekiz Mart University.
-- :seedling: I’m currently learning Frontend Web Development.
+- :seedling: I’m currently learning Data Science and Machine Learning.
 - :sparkles::earth_africa: One of my goals is to help solving health issues and world problems with coding.
 
 <hr>

@@ -27,19 +27,24 @@
 <img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/ios-filled/50/4a90e2/mysql.png"/>
 
 <img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/color/48/4a90e2/git.png"/>
+
+
+<img align="left" style="margin-left:0.5em" width="45px" src="https://img.icons8.com/fluency/48/000000/opencv.png"/>
+
 <br>
 <br>
 
 ### Connect with me:
 <a href="mailto:simayhosmeyve@gmail.com" ><img width="40px" align="left" style="margin-left:2.0em" src="https://img.icons8.com/color/48/4a90e2/gmail.png"/><a/>
   
-[<img width="40px" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png"/>][Linkedin] 
+[<img width="40px" align="left" src="https://img.icons8.com/ios-filled/50/4a90e2/linkedin.png"/>][Linkedin] 
 
+[<img width="40px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPwFE-CgNd8TRWnp1WYBYHkLbZSMdIG4olQ&usqp=CAU"/>][Hackerrank]
 <br>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163 )
 
 
-
+[hackerrank]: https://www.hackerrank.com/simayhosmeyve
 [linkedin]: https://www.linkedin.com/in/simayhosmeyve/

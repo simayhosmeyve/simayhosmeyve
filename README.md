@@ -42,9 +42,17 @@
 [<img width="40px" align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNPwFE-CgNd8TRWnp1WYBYHkLbZSMdIG4olQ&usqp=CAU"/>][Hackerrank]
 <br>
 <br>
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163">
+</div>
+ 
+<div align="center">
+  
+### Snake Game With My Contribution Activity :smile:
+  
+<img align="center" src="https://github.com/simayhosmeyve/simayhosmeyve/blob/output/github-contribution-grid-snake.gif">
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163 )
-
-
+                         
 [hackerrank]: https://www.hackerrank.com/simayhosmeyve
 [linkedin]: https://www.linkedin.com/in/simayhosmeyve/

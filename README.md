@@ -1,7 +1,6 @@
 ## Hi there, I'm Simay Hoşmeyve 👋
 
 - :computer: I'm a Computer Vision Engineer.
-- :seedling: I’m still learning Data Science and Machine Learning.
 - :sparkles::earth_africa: One of my goals is to help solving health issues and world problems with coding.
 
 <hr>

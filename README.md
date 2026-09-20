@@ -1,7 +1,6 @@
-## Hi there, I'm Simay Hoşmeyve 👋
+## Hi there, I'm Simay Bilecan 👋
 
 - :computer: I'm a Computer Vision Engineer.
-- :sparkles::earth_africa: One of my goals is to help solving health issues and world problems with coding.
 
 <hr>
 

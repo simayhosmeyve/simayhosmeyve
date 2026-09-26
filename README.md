@@ -44,13 +44,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163">
 </div>
  
-<div align="center">
-  
-### Snake Game With My Contribution Activity :smile:
-  
-<img align="center" src="https://github.com/simayhosmeyve/simayhosmeyve/blob/output/github-contribution-grid-snake.gif">
-</div>
-
                          
 [hackerrank]: https://www.hackerrank.com/simayhosmeyve
 [linkedin]: https://www.linkedin.com/in/simayhosmeyve/

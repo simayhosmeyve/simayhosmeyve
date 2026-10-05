@@ -1,6 +1,6 @@
 ## Hi there, I'm Simay Bilecan 👋
 
-- :computer: I'm a Computer Vision Engineer.
+- :computer: I'm an AI Engineer.
 
 <hr>
 
@@ -41,7 +41,6 @@
 <br>
 <br>
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=simayhosmeyve&show_icons=true&theme=radical&bg_color=17202A&icon_color=CB4335&border_color=DE3163">
 </div>
  
                          
